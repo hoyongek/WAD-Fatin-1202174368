@@ -42,7 +42,7 @@
 
     <br>
 
-    <!-- crad-deck -->
+    <!-- card-deck -->
         <div class="card-deck">
 
           <div class="card text-center" style="width: 18rem;" action="bookstandard.php" method="post">
