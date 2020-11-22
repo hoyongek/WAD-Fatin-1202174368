@@ -1,0 +1,19 @@
+.navbar-center ul{
+	margin: auto;
+}
+
+.mynav a{
+	margin-right: 20px;
+}
+
+.mynav a:hover {
+    border-bottom: 2px solid #fff;
+}
+
+.active a {
+    border-bottom: 2px solid #fff;
+}
+
+.text-center{
+    text-align: ceter;
+}
