@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('localhost', 'root', '', 'wad_modul4');
+$conn = mysqli_connect('localhost', 'root', '', '09-fatin');
 
 if (!$conn){
     echo "<script>

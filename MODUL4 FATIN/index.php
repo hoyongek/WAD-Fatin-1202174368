@@ -2,7 +2,7 @@
 session_start();
 require 'functions.php';
 
-if( !isset($_SESSION["login"])) {
+if( !isset($_SESION["login"])) {
     header("Location: login.php");
     exit;
 }
