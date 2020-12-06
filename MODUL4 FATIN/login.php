@@ -1,6 +1,6 @@
 <?php 
 
-session_star();
+session_start();
 
 // cek cokie
 if( isset($_COOKIE['login'])) {
