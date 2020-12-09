@@ -6,12 +6,12 @@ use App\Http\Controllers\ProductController;
 
 
 Route::get('/home', function () {
-    return view('home');
+    return view('template');
 });
 
 Route::resource('products', ProductController::class);
 Route::get('/product', function () {
-    return view('products/index');
+    return view('products/create');
 });
 
 
